@@ -1,0 +1,22 @@
+.jumbotron {
+    min-height: 10px;
+    background-color: #d2d69a;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 350px;
+    padding-top: 100px;
+    margin-bottom: 70px;
+    padding-bottom: 0;
+}
+
+
+p {
+    border-bottom: #000000;
+    text-align: center;
+    font-weight: bold;
+    color: #3f2828;
+    text-shadow: 2px 2px #fffb00;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
